@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #1b202b;
+			border-color: #0E2821;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #1b202b;
+					border-top: solid 2px #0E2821;
 					display: block;
 					padding: 0;
 				}
