@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #0E2821;
 		font-size: 3.5em;
 	}
 
@@ -1864,7 +1864,7 @@ input, select, textarea {
 		select option {
 			color: #777;
 			background: #fff;
-		}
+		} 
 
 		select:focus::-ms-value {
 			background-color: transparent;
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #0E2821 !important;
 						}
 
 					#header > nav ul li:first-child {
